@@ -36,8 +36,8 @@ After that, the page can be accessed using `http://{WLED}/gifplayer.htm`
 
 ## Screenshots
 
-![Screenshot Image List](https://github.com/Manut38/WLED-GifPlayer-html/assets/18471596/917093c2-f872-47a3-8b6c-8b92fa9de356 "Image select main screen")
-![Screenshot Image Select](https://github.com/Manut38/WLED-GifPlayer-html/assets/18471596/81ac7234-062f-43ea-aff5-1ab5dac98019 "Right click/long press options")
+![Screenshot Image List](https://github.com/Manut38/WLED-GifPlayer-html/blob/main/doc/screenshot-desktop.png?raw=true "Image select main screen")
+![Screenshot Image Select](https://github.com/Manut38/WLED-GifPlayer-html/blob/main/doc/screenshot-select.png?raw=true "Right click/long press options")
 
 ## Footnotes
 
