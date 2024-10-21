@@ -9,6 +9,13 @@ A WLED UI extension for an easy control of the awesome new "Image" effect, capab
 
 It is using the ESP filesystem editor at `/edit` to list and change files on the local ESP storage.
 
+> [!WARNING]  
+> **The 'Image Effect' (GIF support) has not been officially added to stable versions of WLED yet**
+> 
+> To use this project you will need to **build your own WLED binary** using the [gif branch](https://github.com/Aircoookie/WLED/tree/gif), where the effect has been implemented.
+> 
+> Currently, the [pull request](https://github.com/Aircoookie/WLED/pull/3835) to add the functionality into the main project remains unresolved, so for now a manual build is still required.
+
 ## Features
 
 - Click to change currently displayed image
