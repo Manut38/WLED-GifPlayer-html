@@ -40,6 +40,12 @@ Download [gifplayer.htm](https://raw.githubusercontent.com/Manut38/WLED-GifPlaye
 
 After that, the page can be accessed using `http://{WLED}/gifplayer.htm`
 
+## Custom Host
+
+If you want to use a custom WLED host, e.g when accessing the file from another web server or directly from the filesystem, you can adjust the `host` parameter in the URL like:
+
+`/gifplayer.htm?host={WLED_IP}`
+
 ## Screenshots
 
 ![Screenshot Image List](https://github.com/Manut38/WLED-GifPlayer-html/blob/main/doc/screenshot-desktop.png?raw=true "Image select main screen")
